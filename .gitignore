@@ -4,4 +4,5 @@
 
 /.vs/DZDPortfolio/v15/Server/sqlite3/storage.ide-wal
 /.vs/DZDPortfolio/v15/Server/sqlite3/storage.ide-shm
-/ContentX
+/.vs/DZDPortfolio/Content
+/.vs/DZDPortfolio/Scripts
